@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oburu4.github.io/joebru-Tech/sitemap.xml
