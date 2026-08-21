@@ -16,6 +16,12 @@ a { color: inherit; text-decoration: none; }
   backdrop-filter: blur(12px);
 }
 .logo {
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: .5px;
+}
+
+.logo img {
     width: 55px;
     height: 55px;
     object-fit: contain;
