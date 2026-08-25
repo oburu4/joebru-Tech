@@ -395,7 +395,17 @@ footer { padding: 30px 7%; color: #73879d; border-top: 1px solid #172a40; font-s
     font-weight: 400 !important;
     margin-top: 3px !important;
 }
+/* REMOVE LOGO WHITE BOX IN NAVBAR */
 
+.navbar .logo-mark {
+    background: transparent !important;
+    border: none !important;
+}
+
+.navbar .logo-mark img {
+    background: transparent !important;
+    mix-blend-mode: multiply;
+}
 
 
 
