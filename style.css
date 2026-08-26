@@ -487,7 +487,16 @@ main {
     height: auto !important;
     margin: 20px auto !important;
 }
-
+/* Make mobile menu button visible */
+.navbar .menu-btn {
+    display: block !important;
+    color: #111111 !important;
+    background: transparent !important;
+    border: none !important;
+    font-size: 32px !important;
+    cursor: pointer;
+    z-index: 1001 !important;
+}
 
 
 
