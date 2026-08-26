@@ -455,7 +455,28 @@ footer { padding: 30px 7%; color: #73879d; border-top: 1px solid #172a40; font-s
     height: 55px !important;
     object-fit: contain;
 }
+.navbar .logo-text .name {
+    color: #111111 !important;
+}
 
+.navbar .logo-text .brand {
+    color: #333333 !important;
+}
+
+.navbar .menu-btn {
+    color: #111111 !important;
+}
+
+#home img {
+    width: 240px !important;
+    max-width: 60% !important;
+    height: auto !important;
+    margin: 20px auto !important;
+}
+
+#home {
+    padding-top: 50px !important;
+}
 
 
 
