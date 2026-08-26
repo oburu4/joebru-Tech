@@ -406,7 +406,14 @@ footer { padding: 30px 7%; color: #73879d; border-top: 1px solid #172a40; font-s
     background: transparent !important;
     mix-blend-mode: multiply;
 }
-
+/* Main home-page logo size */
+#home img {
+    width: 280px !important;
+    max-width: 70% !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto;
+}
 
 
 
