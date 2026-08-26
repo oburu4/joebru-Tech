@@ -474,7 +474,7 @@ footer { padding: 30px 7%; color: #73879d; border-top: 1px solid #172a40; font-s
     margin: 20px auto !important;
 }
 main {
-    padding-top: 20px !important;
+    padding-top: 10px !important;
 }
 
 #home {
@@ -497,7 +497,23 @@ main {
     cursor: pointer;
     z-index: 1001 !important;
 }
+/* Mobile navigation dropdown */
+.navbar {
+    position: sticky !important;
+    top: 0;
+    z-index: 1000 !important;
+}
 
+.navbar nav {
+    position: absolute !important;
+    top: 100% !important;
+    right: 7% !important;
+    width: 220px;
+    background: #ffffff !important;
+    padding: 15px !important;
+    z-index: 1001 !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
 
 
 
