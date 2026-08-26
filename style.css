@@ -414,7 +414,27 @@ footer { padding: 30px 7%; color: #73879d; border-top: 1px solid #172a40; font-s
     display: block;
     margin: 0 auto;
 }
+/* White header */
+.navbar {
+    background: #ffffff !important;
+}
 
+/* Header logo */
+.navbar .logo-mark img {
+    width: 55px !important;
+    height: auto !important;
+}
+
+/* Header text */
+.navbar .logo-text .name,
+.navbar .logo-text .brand {
+    color: #111111 !important;
+}
+
+/* Menu button */
+.navbar .menu-btn {
+    color: #111111 !important;
+}
 
 
 
